@@ -50,7 +50,7 @@ Adotto un approccio rigoroso e **orientato al risultato** nello sviluppo di appl
 ## 🚀 Progetti in Sviluppo & Rilevanti
 
 🌐 Sito Vetrina / Portfolio Personale
-Piattaforma che stai consultando, costruita per presentare professionalmente il mio percorso, le mie skill e i miei progetti.
+Piattaforma costruita per presentare professionalmente il mio percorso, le mie skill e i miei progetti.
 - **Frontend:** **Next.js** (Per performance e SEO)
 - **Stile:** **Tailwind CSS** (Per uno stile moderno, responsive e minimalista)
 - **Hosting:** **Vercel**
