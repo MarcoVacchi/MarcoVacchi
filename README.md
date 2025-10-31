@@ -17,7 +17,7 @@ Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un a
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js (Base)">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS (Base)">
-  <img src="https://img://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://localo.com/assets/img/definitions/what-is-bootstrap.webp" alt="Bootstrap">
 </p>
 
 **Backend & Database:**
