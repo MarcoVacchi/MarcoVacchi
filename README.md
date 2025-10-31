@@ -1,14 +1,14 @@
 ### Ciao, sono Marco Vacchi 👋
 
-Sono un **Junior Full-Stack Developer** con specializzazione Java & Spring. Profondamente appassionato di tecnologia e informatica sin dall'infanzia.
+Sono un **Junior Full-Stack Developer** specializzato in **Java & Spring**. Profondamente appassionato di tecnologia e informatica sin dall'infanzia, affronto ogni sfida di programmazione con **perseveranza e tenacia**.
 
-Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un approccio rigoroso e orientato al risultato nello sviluppo di applicazioni web. La mia determinazione, affinata nel costante raggiungimento degli obiettivi personali e sportivi, mi consente di applicare un approccio metodico ad ogni progetto.
+Adotto un approccio rigoroso e **orientato al risultato** nello sviluppo di applicazioni web. La mia determinazione, affinata nel costante raggiungimento degli obiettivi personali e sportivi, mi consente di applicare un approccio **metodico** ad ogni progetto.
 
 ---
 
-### 🔧 Skill Set & Tecnologie
+## 🔧 Skill Set & Tecnologie
 
-**Linguaggi & Frameworks:**
+### Linguaggi & Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -17,10 +17,10 @@ Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un a
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js (Base)">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS (Base)">
-  <img src="https://localo.com/assets/img/definitions/what-is-bootstrap.webp" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-**Backend & Database:**
+### Backend & Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -34,7 +34,7 @@ Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un a
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate / JPA">
 </p>
 
-**Tools & Altro:**
+### Tools & Altro
 
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -47,16 +47,40 @@ Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un a
 
 ---
 
-### 🚀 Progetti in Sviluppo & Rilevanti
+## 🚀 Progetti in Sviluppo & Rilevanti
 
-* **Gestionale per Palestre (In Sviluppo):** Applicazione full-stack per l'automatizzazione dei processi di una palestra. Utilizza **Spring** (con Spring Security e JWT) lato backend e **Next.js** lato frontend. Il lato Admin e User con Spring sono attualmente completati.
-* **Progetto Finale di Specialistica (Visualizzazione Automobili):** Applicazione full-stack creata per la visualizzazione automobili. Backend in **Java/Spring** (autenticazione con Spring Security, CRUD, API REST con Thymeleaf lato Admin) e interfaccia **React** lato User.
-* **Eneru (Escape Room Virtuale):** Progetto in team di mini-gioco rompicapo. **React** per il frontend e la logica interattiva; **Node.js** per il backend con gestione real-time delle recensioni.
-* **Urbn Way (E-shop):** E-commerce di abbigliamento. Backend con **Node.js** e **MySQL** (funzionalità CRUD). Frontend in **React** e **Bootstrap**, con interfaccia responsive.
+*Ho aggiunto un tocco di stile "card" alle descrizioni, separandole con le lineette per una migliore leggibilità e un aspetto più strutturato.*
+
+### 🏋️ Gestione Palestra
+Applicazione full-stack per l'automatizzazione dei processi di una palestra.
+- **Backend:** **Spring** (Spring Security, JWT)
+- **Frontend:** **Next.js**
+- **Stato:** Lati Admin e User con Spring attualmente completati.
 
 ---
 
-### ✉️ Contattami
+### 🚗 Visualizzazione Automobili
+Progetto finale di specialistica per la visualizzazione di veicoli.
+- **Backend:** **Java/Spring** (CRUD, API REST, Autenticazione con Spring Security, Thymeleaf per Admin)
+- **Frontend:** Interfaccia **React** lato User.
+
+---
+
+### 🗝️ Eneru (Escape Room Virtuale)
+Mini-gioco rompicapo sviluppato in team.
+- **Frontend & Logica:** **React**
+- **Backend:** **Node.js** (Gestione real-time delle recensioni)
+
+---
+
+### 👕 Urbn Way (E-shop)
+E-commerce di abbigliamento.
+- **Backend & DB:** **Node.js** e **MySQL** (funzionalità CRUD)
+- **Frontend:** **React** e **Bootstrap**, interfaccia responsive.
+
+---
+
+## ✉️ Contattami
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marco-vacchi-6a6283367/" target="_blank">
@@ -72,5 +96,3 @@ Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un a
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-questo e il mio github, vorrei lo sistemassi con uno stile simile all immagine che e il mio stile 
-tipo come sono fatte le 3 card, stile grigio bianco nero tailwind
