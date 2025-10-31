@@ -56,5 +56,7 @@ Affronto ogni sfida di programmazione con perseveranza e tenacia, adottando un a
 
 ### ✉️ Contattami
 
-* **LinkedIn:** [Profilo LinkedIn](link-al-tuo-profilo-linkedin)
+* **LinkedIn:** https://www.linkedin.com/in/marco-vacchi-6a6283367/
 * **Email:** mvacchi816@gmail.com
+* **Instagram:** https://www.instagram.com/marcovacchi97/
+* **Portfolio:** https://sito-vetrina-nu.vercel.app/
